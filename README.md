@@ -10,7 +10,7 @@ This assignment required building an interactive dashboard to explore the Belly 
 
 The dashboard consists of a drop menu for selecting a dataset sample with corresponding dynamic:
 
--*demographic table of sample information
+* demographic table of sample information
 * bar chart of the ten largest within the sample
 * bubble chart of all OTUs in the sample, scaled by size of presence
 
