@@ -1,4 +1,5 @@
-# belly-button-challenge
+# belly-button-challenge 
+ Deployed to Github Pages | https://dotan53.github.io/belly-button-challenge/
 
 ### Dotan Barak | March 2025
 
